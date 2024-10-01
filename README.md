@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ANY PROJECT TO HELP ME IMPROVE MY SKILLS IN DATA ANALYSIS
 - 📫 How to reach me jmkadelabu@gmail.com
 - 😄 Pronouns: 
-- ⚡ Fun fact: the world is a big for everyone to feet in 
+- ⚡ Fun fact: the world is big for everyone to explore 
 
 <!---
 ADELABU-JUMMY/ADELABU-JUMMY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
