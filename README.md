@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @ADELABU-JUMMY
-- 👀 I’m interested in DATA ANALYSIS 
-- 🌱 I’m currently learning EXCEL, SQL AND POWER BI
-- 💞️ I’m looking to collaborate on ANY PROJECT TO HELP ME IMPROVE MY SKILLS IN DATA ANALYSIS
-- 📫 How to reach me jmkadelabu@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: the world is big for everyone to explore 
 
-<!---
-ADELABU-JUMMY/ADELABU-JUMMY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub ](https://github.com/user-attachments/assets/3d9f3cc9-ea2a-430a-acdc-3f85a3a3a2e5)
+
+### ADELABU ADEJUMOKE
+*FEMALE*
+
+### ABOUT JUMMY
+ *Hi🙂*,
+
+My name is Adejumoke and I am a data analysis enthusiast, passionate about using my skills to help businesses improve. 
+
+My goal is to become a business analyst so I can use data to solve problems, make better decisions, and support business growth, with a keen eye for details and a dedication to continuous improvement. I enjoy finding ways to make things work better and believe that data holds the key to many business opportunities.
+
+ *📩jmkadelabu@gmail.com*
